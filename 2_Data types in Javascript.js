@@ -10,7 +10,7 @@ let x = BigInt("123456789012345678901234567890");
 let color = "Yellow";
 let lastName = "Johnson";
 
-Note : When adding a number and a string, JavaScript will treat the number as a string.
+//Note : When adding a number and a string, JavaScript will treat the number as a string.
 let x = 16 + "Volvo";  -----> 16 = "16"
 
 
